@@ -1,1 +1,2 @@
 Line 1: Initial content
+Line 2: Good code
