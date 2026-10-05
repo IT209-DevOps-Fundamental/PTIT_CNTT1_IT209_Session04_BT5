@@ -1,2 +1,4 @@
 Line 1: Initial content
 Line 2: Good code
+
+Line 3: Another bad code for public
